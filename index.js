@@ -18,7 +18,3 @@ function sayHiToGrandma(string) {
   return `I can't hear you!`
   if ('string is lowercase')
 }
-
-function sayHiToGrandma(string) {
-  return 'YES INDEED!'
-}
