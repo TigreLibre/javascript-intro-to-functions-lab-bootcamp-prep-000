@@ -1,3 +1,5 @@
+var sayHiToGrandma(string) = "I can't hear you"
+
 function shout(string) {
   return string.toUpperCase()
 }
@@ -16,4 +18,10 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string) {
   return `I can't hear you!`
+}
+
+sayHiToGrandma(string) = "YES INDEED!"
+
+function sayHiToGrandma(string) {
+  return `YES INDEED!`
 }
